@@ -11,6 +11,7 @@ The `@hackclub-community` organization is the community playground and can host 
 
 ### Quick links
 
+- [**Meta repository**](https://github.com/hackclub-community/meta) (documentation/website sources for `hackclub.community`, meta issue tracker, etc.)
 - [**Hack Club Code of Conduct**](https://hackclub.com/conduct)
 - [**Hack Club Slack**](https://hackclub.com/slack) (for high-schoolers aged 18 and below)
 - [**Mirrors on Nest Forgejo**](https://git.hackclub.app/community)
@@ -18,4 +19,4 @@ The `@hackclub-community` organization is the community playground and can host 
 
 ### Related organizations from the community
 
-- [**Hack Club Alumni Society**](https://github.com/hackclub-alumni) - Loose assoication of alums who graduated from either high school or aged out of YSWS programs or both.
+- [**Hack Club Alumni Society**](https://github.com/hackclub-alumni) - Loose association of alums who graduated from either high school or aged out of YSWS programs or both.
